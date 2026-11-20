@@ -2,8 +2,8 @@
 Este trabajo lo conformamos los siguientes integrantes:
 - Juan Ignacio Payaslian
 - Facundo Emmanuel Barrios Rios
-Curso: 7mo 2da
-Profesor: Gian Franco Denaro
+-Curso: 7mo 2da
+-Profesor: Gian Franco Denaro
 
 # Modelos y Sistemas - 5.º y 7.º Año
 
